@@ -39,5 +39,5 @@
 <br>
 <br>
   
-  ![gksgpwls0306's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuca&show_icons=true&theme=radical)
+  ![gksgpwls0306's GitHub stats](https://github-readme-stats.vercel.app/api?username=gksgpwls0306&show_icons=true&theme=radical)
 </div> 

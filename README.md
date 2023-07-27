@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=footer&text=hello%20world&fontSize=90)
   
-####  :wave: Welcome my github profile !
+####  :wave: 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=865DFF&background=FFFFFF00&center=true&width=435&lines=welcome+my+github!" alt="Typing SVG" /></a>
 
   
  <br/>
